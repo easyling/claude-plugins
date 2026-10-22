@@ -1,0 +1,16 @@
+{
+  "name": "easyling",
+  "owner": {
+    "name": "Skawa"
+  },
+  "metadata": {
+    "description": "Skills for working with Easyling through the Easyling MCP server."
+  },
+  "plugins": [
+    {
+      "name": "easyling",
+      "source": "./easyling",
+      "description": "Easyling skills: onboarding a project for proxy or crest serving, linguistic quality, and translating Word documents with their formatting. The MCP server is connected from the AI dialog in the Easyling dashboard."
+    }
+  ]
+}
